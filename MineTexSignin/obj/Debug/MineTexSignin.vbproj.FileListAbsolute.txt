@@ -1,0 +1,17 @@
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTexSignin.vbproj.GenerateResource.cache
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTexSignin.vbproj.CoreCompileInputs.cache
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.Form1.resources
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.Form2.resources
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.LogIn.resources
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.Resources.resources
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.exe.config
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.exe.manifest
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.application
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.exe
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.pdb
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\bin\Debug\MineTex.xml
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.exe.manifest
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.application
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.exe
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.xml
+c:\users\eclectictree209\source\repos\MineTexSignin\MineTexSignin\obj\Debug\MineTex.pdb

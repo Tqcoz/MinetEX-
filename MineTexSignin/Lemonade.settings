@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Lemonade">
+  <Profiles />
+  <Settings>
+    <Setting Name="Framework" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MineTex</Value>
+    </Setting>
+    <Setting Name="SystemCore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lemonade</Value>
+    </Setting>
+    <Setting Name="SettingsFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">settings.json</Value>
+    </Setting>
+    <Setting Name="ApplicationConfig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">App.config</Value>
+    </Setting>
+    <Setting Name="CoreConfiguration" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config.config</Value>
+    </Setting>
+    <Setting Name="MainApplication" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MineTex.vb</Value>
+    </Setting>
+    <Setting Name="MainReferenceFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MineTexFramework.php</Value>
+    </Setting>
+    <Setting Name="MainCodeReference" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JSON,C#,VB,L3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
